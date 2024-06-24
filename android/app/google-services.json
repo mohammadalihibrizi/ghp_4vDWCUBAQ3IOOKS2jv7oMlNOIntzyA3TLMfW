@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402679679157",
+    "project_id": "klinik-app-dece3",
+    "storage_bucket": "klinik-app-dece3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402679679157:android:3601259d8479c2b14116fc",
+        "android_client_info": {
+          "package_name": "cam.klinik.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-v5ij9Attk1vGJNIahtmp0xwF7fKXIRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
